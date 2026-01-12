@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1470-shuffle-the-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/0001-two-sum) |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
@@ -25,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
@@ -38,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
+## String
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
 <!---LeetCode Topics End-->
