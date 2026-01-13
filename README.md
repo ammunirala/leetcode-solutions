@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
@@ -49,4 +50,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
