@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1470-shuffle-the-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 ## Simulation
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
