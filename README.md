@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/1470-shuffle-the-array) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
