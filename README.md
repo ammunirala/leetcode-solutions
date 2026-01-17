@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1512-number-of-good-pairs](https://github.com/ammunirala/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Counting
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0075-sort-colors) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
@@ -95,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/0033-search-in-rotated-sorted-array) |
+## Greedy
+|  |
+| ------- |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
