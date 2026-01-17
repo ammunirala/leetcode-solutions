@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2574-left-and-right-sum-differences](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/2574-left-and-right-sum-differences) |
 | [3467-transform-array-by-parity](https://github.com/ammunirala/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ammunirala/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/ammunirala/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Hash Table
@@ -101,5 +102,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3689-maximum-total-subarray-value-i) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/ammunirala/leetcode-solutions-backup/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 <!---LeetCode Topics End-->
